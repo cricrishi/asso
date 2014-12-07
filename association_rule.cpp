@@ -1,6 +1,8 @@
 #include <iostream>
 #include <conio.h>
+#include<stdio.h>
 using namespace std;
+
 struct item_table
 {
     int id[6];//index ranges from 1 to n
